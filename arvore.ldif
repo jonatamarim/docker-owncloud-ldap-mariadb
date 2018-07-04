@@ -1,0 +1,68 @@
+# efetivos, gmrl.tk
+dn: ou=efetivos,dc=gmrl,dc=tk
+objectClass: organizationalUnit
+ou: efetivos
+
+# estagiarios, gmrl.tk
+dn: ou=estagiarios,dc=gmrl, dc=tk
+objectClass: organizationalUnit
+ou: estagiarios
+
+# outros, gmrl.tk
+dn: ou=outros,dc=gmrl, dc=tk
+objectClass: organizationalUnit
+ou: outros
+
+# Fabio, efetivos, gmrl.tk
+dn: cn=fabio,ou=efetivos,dc=gmrl,dc=tk
+objectClass: inetOrgPerson
+objectClass: person
+cn: Fabio
+sn: Santana
+mail: **********@ufmt.br
+userPassword: ********
+
+# Fabiano, efetivos, gmrl.tk
+dn: cn=fabiano,ou=efetivos,dc=gmrl,dc=tk
+objectClass: inetOrgPerson
+objectClass: person
+cn: Fabiano
+sn: Rodrigues
+mail: **********@ufmt.br
+userPassword: ********
+
+# Felipe, efetivos, gmrl.tk
+dn: cn=felipe,ou=efetivos,dc=gmrl,dc=tk
+objectClass: inetOrgPerson
+objectClass: person
+cn: Felipe
+sn: Ponce
+mail: **********@ufmt.br
+userPassword: ********
+
+# Jeison, efetivos, gmrl.tk
+dn: cn=jeison,ou=efetivos,dc=gmrl,dc=tk
+objectClass: inetOrgPerson
+objectClass: person
+cn: Jeison
+sn: Gomes
+mail: **********@ufmt.br
+userPassword: ********
+
+# Junior, efetivos, gmrl.tk
+dn: cn=junior,ou=efetivos,dc=gmrl,dc=tk
+objectClass: inetOrgPerson
+objectClass: person
+cn: Junior
+sn: Nogueira
+mail: **********@ufmt.br
+userPassword: ********
+
+# Ana, efetivos, gmrl.tk
+dn: cn=ana,ou=efetivos,dc=gmrl,dc=tk
+objectClass: inetOrgPerson
+objectClass: person
+cn: Ana
+sn: Maria
+mail: **********@ufmt.br
+userPassword: ********
